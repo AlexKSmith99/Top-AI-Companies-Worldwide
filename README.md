@@ -13,4 +13,5 @@ Business Objectives:
 - Relationships: What other trends can we draw between variables/metrics?
 - AI Service Focus: Which types of companies are most AI focused?
 
+<img width="660" alt="Screen Shot 2023-07-06 at 2 50 34 PM" src="https://github.com/AlexKSmith99/Top-AI-Companies-Worldwide/assets/123396488/2bbb25e0-0ca8-46e0-b30d-b0b5c46a6aef">
 
