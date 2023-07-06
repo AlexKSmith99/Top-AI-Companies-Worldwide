@@ -8,9 +8,9 @@ About the Data:
 - Visualization: Tableau
 
 Business Objectives:
-Location: Where are the most AI companies located?
-Hourly Pay: Which factors affect employee pay?
-Relationships: What other trends can we draw between variables/metrics?
-AI Service Focus: Which types of companies are most AI focused?
+- Location: Where are the most AI companies located?
+- Hourly Pay: Which factors affect employee pay?
+- Relationships: What other trends can we draw between variables/metrics?
+- AI Service Focus: Which types of companies are most AI focused?
 
 
